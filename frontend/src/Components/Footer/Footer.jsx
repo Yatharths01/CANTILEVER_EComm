@@ -18,7 +18,7 @@ const Footer = () => {
             <li>About</li>
             <li>Contact</li>
         </ul>
-        <p className = "myname"> Created by KRITIK GOEL </p>
+        <p className = "myname"> Created by Yatharth Singh </p>
         <div className="footer-social-icon">
             <div className="footer-icons-container">
                 <img src={instagram_icon} alt=""/>
@@ -32,7 +32,7 @@ const Footer = () => {
         </div>
         <div className="footer-copyright">
             <hr/>
-            <p>Copyright_KGOEL20@--2024 - All Right Reserved</p>
+            <p>Copyright_Yatharths03@--2024 - All Right Reserved</p>
         </div>
     </div>
   )
