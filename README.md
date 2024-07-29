@@ -3,7 +3,7 @@ This is my 2nd project for Cantilever Internship july '24, It is a responsive e-
 
 **Commands**:
 
-  1. git clone 
+  1. git clone https://github.com/Yatharths01/CANTILEVER_EComm.git
 
   2. cd CANTILEVER_EComm
 
