@@ -3,12 +3,12 @@ This is my 2nd project for Cantilever Internship july '24, It is a responsive e-
 
 **Commands**:
 
-git clone 
+  1. git clone 
 
-cd CANTILEVER_EComm
+  2. cd CANTILEVER_EComm
 
-cd frontend
+  3. cd frontend
 
-npm install
+  4. npm install
 
-npm start
+  5. npm start
